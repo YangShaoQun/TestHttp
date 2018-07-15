@@ -1,0 +1,5 @@
+/Users/YSQ/Documents/ysqpro/dotNet/TestHttp/TestHttp/bin/Debug/TestHttp.exe
+/Users/YSQ/Documents/ysqpro/dotNet/TestHttp/TestHttp/bin/Debug/TestHttp.pdb
+/Users/YSQ/Documents/ysqpro/dotNet/TestHttp/TestHttp/obj/x86/Debug/TestHttp.csproj.CoreCompileInputs.cache
+/Users/YSQ/Documents/ysqpro/dotNet/TestHttp/TestHttp/obj/x86/Debug/TestHttp.exe
+/Users/YSQ/Documents/ysqpro/dotNet/TestHttp/TestHttp/obj/x86/Debug/TestHttp.pdb

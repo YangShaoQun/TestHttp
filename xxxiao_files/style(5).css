@@ -1,0 +1,200 @@
+/*
+Theme Name: Meteorite Go
+Template: meteorite
+Author: Child Theme Configurator
+Description: Meteorite is a powerful multipurpose WordPress theme for business and portfolio websites. With its great number of features and customizations like color and font options, different blog layouts and header types, header images or slider and many widgets it brings everything to create an expressive website.
+Tags: one-column,two-columns,three-columns,left-sidebar,right-sidebar,custom-colors,custom-menu,custom-logo,featured-images,footer-widgets,full-width-template,theme-options,threaded-comments,translation-ready
+Version: 1.12.1530172812
+Updated: 2018-06-28 16:00:12
+
+*/
+
+.widget_tag_cloud a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 16px !important;
+    background-color: rgb(45, 45, 45);
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+.parallax-text {
+    z-index: 3;
+}
+.header-button {
+    width: 50%;
+    height: 50%;
+}
+.header-button i {
+    left: calc(50% - 12.5px);
+    position: absolute;
+    bottom: 0;
+}
+.titlebar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.overlay {
+    opacity: 0.1;
+}
+.meteorite-boxed #page {
+    background-color: #000;
+}
+.flt-orange ul li:first-letter, .flt-orange ul li p:first-letter {
+    color: orange;
+}
+.flt-xxl ul li:first-letter {
+    float: left;
+    font-size: xx-large !important;
+    line-height: 0.5;
+    padding: 4px 4px 0 0;
+}
+.flt-xl ul li:first-letter {
+    float: left;
+    font-size: x-large !important;
+    line-height: 0.5;
+    padding: 4px 4px 0 0;
+}
+#masthead .nav-container.fixed .site-description {
+    display: none;
+}
+#page #masthead .nav-container {
+    background-color: rgba(8, 8, 8, 0.15);
+}
+.single-attachment .attachment-full {
+    width: 100%;
+}
+#page #masthead .nav-container.fixed {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+.single-attachment #secondary {
+    width: 100%;
+    margin-top: 0;
+}
+.wpulike-heart .wp_ulike_general_class {
+    height: 42px;
+    border: 1px solid #000;
+    background-color: rgb(34, 34, 34);
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    padding: 11px;
+}
+.wpulike-heart .wp_ulike_btn.wp_ulike_put_image {
+    border-right: 1px solid rgb(0, 0, 0);
+}
+.single-content p a img.size-full {
+    margin: 0.1px auto;
+}
+#main-nav .sub-menu, #mobile-menu {
+    opacity: 0.8 !important;
+}
+.post-wrapper {
+    position: relative;
+}
+.single-attachment .site-content {
+    padding-top: 10px;
+}
+.titlebar .meteorite-breadcrumb a {
+    border-bottom: 1px dotted;
+}
+.masonry .has-post-thumbnail .post-inner .entry-content {
+    position: absolute;
+    bottom: 1em;
+    color: rgba(211, 211, 211, 0.5);
+    padding: 0 1em;
+}
+.masonry .has-post-thumbnail .entry-title a {
+    opacity: 0.6;
+}
+.masonry .has-post-thumbnail .post-inner .entry-header {
+    width: 100%;
+    top: 0;
+    position: absolute;
+    overflow: hidden;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    padding: 0 1em;
+}
+.has-header #masthead.above:not(.above-solid):not(.below) {
+    position: fixed !important;
+}
+.size-full, .wp-caption, .wp-caption .size-full {
+    min-width: 300px;
+}
+.nlposts-block-container .nlposts-block-thumbnail-litem a > img {
+    opacity: .85 !important;
+    border: 1px solid rgb(68, 68, 68) !important;
+    -webkit-filter: grayscale(0) !important;
+}
+.nlposts-block-container .nlposts-block-thumbnail-litem a > img:hover {
+    opacity: 1 !important;
+}
+.wpulike svg {
+    position: unset;
+}
+.simplefavorite-button {
+    -moz-transform: translate(10px);
+    -webkit-transform: translate(10px);
+    -o-transform: translate(10px);
+    transform: translate(10px);
+    background-color: transparent !important;
+}
+.wpulike, .simplefavorite-button {
+    display: inline-block;
+    position: sticky !important;
+    bottom: 120px;
+    opacity: 0.5;
+    font-size: 2.1rem;
+    height: 4.5rem;
+    background-image: -moz-linear-gradient(left, rgb(255, 20, 147), rgb(0, 191, 255)) !important;
+    background-image: -webkit-linear-gradient(left, rgb(255, 20, 147), rgb(0, 191, 255)) !important;
+    background-image: -o-linear-gradient(left, rgb(255, 20, 147), rgb(0, 191, 255)) !important;
+    background-image: -ms-linear-gradient(left, rgb(255, 20, 147), rgb(0, 191, 255)) !important;
+    background-image: linear-gradient(to right, rgb(255, 20, 147), rgb(0, 191, 255)) !important;
+    border: 1px solid rgba(0, 0, 0, 0.2) !important;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    vertical-align: bottom;
+    font-weight: bold !important;
+    color: #f00 !important;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    z-index: 20;
+    text-shadow: 1px 0 4px rgb(0, 0, 0);
+    padding: 0 8px 0 0;
+}
+.single-attachment #secondary .widget {
+    margin-top: 8px !important;
+    margin-right: 0;
+    margin-bottom: 8px !important;
+    margin-left: 0;
+}
+@media only screen and (max-width: 991px) {
+.header-button {
+    display: initial;
+}
+.titlebar .meteorite-breadcrumb {
+    margin-top: 0;
+}
+}
+@media screen and (max-width: 767px) {
+.single-attachment .titlebar {
+    padding: 0;
+}
+.single-attachment .titlebar .container {
+    padding: 0 15px 15px !important;
+}
+.single-attachment .titlebar .meteorite-breadcrumb a {
+    font-size: small;
+    letter-spacing: -1px;
+}
+}
+@media only screen and (max-width: 480px) {
+#primary, #secondary {
+    padding-right: 0;
+    padding-left: 0;
+}
+}

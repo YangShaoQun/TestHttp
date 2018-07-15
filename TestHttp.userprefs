@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6411E379-90E5-4BCB-85BB-D1B2A5A280AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestHttp/Program.cs">
+    <Files>
+      <File FileName="TestHttp/Http/HttpService.cs" Line="29" Column="80" />
+      <File FileName="TestHttp/Utils/FileUtil.cs" Line="12" Column="39" />
+      <File FileName="TestHttp/Program.cs" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestHttp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestHttp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,29 @@
+.so-widget-lsow-portfolio-default-e644b6cdcc8f .lsow-portfolio {
+  margin-left: -3px;
+  margin-right: -3px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-lsow-portfolio-default-e644b6cdcc8f .lsow-portfolio {
+    margin-left: -3px;
+    margin-right: -3px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .so-widget-lsow-portfolio-default-e644b6cdcc8f .lsow-portfolio {
+    margin-left: -3px;
+    margin-right: -3px;
+  }
+}
+.so-widget-lsow-portfolio-default-e644b6cdcc8f .lsow-portfolio .lsow-portfolio-item {
+  padding: 3px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-lsow-portfolio-default-e644b6cdcc8f .lsow-portfolio .lsow-portfolio-item {
+    padding: 3px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .so-widget-lsow-portfolio-default-e644b6cdcc8f .lsow-portfolio .lsow-portfolio-item {
+    padding: 3px;
+  }
+}
